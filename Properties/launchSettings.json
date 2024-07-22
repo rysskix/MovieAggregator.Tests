@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MovieAggregator.Tests": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\admin\\MovieAggregator"
+    }
+  }
+}
